@@ -26,8 +26,10 @@ Create a docker microservice
  `docker run --name=ntp --restart=always --detach --publish=123:123/udp cturra/ntp`
   ![docker container](task3.4screenshot.JPG)
 
+
 5. Check the result
-   ![Result](task3.5screenshot.JPG)    
+
+  ![Result](task3.5screenshot.JPG)    
  
 ## Task troubleshooting
 No error occured in this task
