@@ -19,14 +19,14 @@ Create a docker microservice
 ![docker pull](task3.2screenchot.JPG)
 
 3. Check the result:       
-`docker images | grep ntp`      
+`docker images | grep ntp`
 ![check images](task3.3screenchot.JPG)  
 
 4. Run the docker container     
-`docker run --name=ntp --restart=always --detach --publish=123:123/udp cturra/ntp`    
+`docker run --name=ntp --restart=always --detach --publish=123:123/udp cturra/ntp`
 ![docker container](task3.4screenchot.JPG)
 
-5. Check the result    
+5. Check the result
 ![Result](task3.5screenchot.JPG)    
  
 ## Task troubleshooting
