@@ -24,6 +24,7 @@ preference.
 ![main.yml](task2mainscreenshot.JPG)
 
 4) Create index.html for webservers
+
 ![index.html](task2indexscreenshot.JPG)
 
 5) Run Ansible to install
