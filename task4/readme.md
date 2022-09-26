@@ -21,7 +21,7 @@ Create a Jenkins pipeline
 3. Create pipeline to do the task     
 ![pipeline](task4.4screenshot.JPG)   
 
-4. Create script for jenkinsfile to run the job
+4. Create script for jenkinsfile to run the job    
 ![script](task4scriptsceenshot.JPG) 
 
 5. Check the result     
