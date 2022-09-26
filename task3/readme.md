@@ -27,7 +27,7 @@ Create a docker microservice
   ![docker container](task3.4screenshot.JPG)
 
 5. Check the result
- ![Result](task3.5screenshot.JPG)    
+  ![Result](task3.5screenshot.JPG)    
  
 ## Task troubleshooting
 No error occured in this task
