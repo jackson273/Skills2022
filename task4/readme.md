@@ -28,7 +28,7 @@ Create a Jenkins pipeline
 ![Result](task4.5screenshot.JPG)         
  
 ## Task troubleshooting
-No error occured in this task
+Got "Permission denied when trying to connect to Docker daemon" when pulling ntp from docker, fixed this by the command `sudo usermod -aG docker jenkins`
 
 ## Task verification
 ![Confirm task4](task4.6screenshot.JPG)
