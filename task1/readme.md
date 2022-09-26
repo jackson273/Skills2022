@@ -17,6 +17,7 @@ repository.
 1) Create Skills2022 directory on DEVASC VM
 2) Create Skills2022 repository on github account
 3) Init and Add remote repository
+
  `git init`
  
  `git branch -M main`
