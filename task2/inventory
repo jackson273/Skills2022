@@ -1,0 +1,2 @@
+[webservers]
+172.28.174.4 ansible_ssh_pass=theanh ansible_ssh_user=theanh
