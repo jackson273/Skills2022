@@ -18,7 +18,9 @@ repository.
 2) Create Skills2022 repository on github account
 3) Init and Add remote repository
  `git init`
+ 
  `git branch -M main`
+ 
  `git remote add origin <repository's link>`
 
 ## Task troubleshooting
