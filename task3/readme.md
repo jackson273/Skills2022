@@ -33,4 +33,4 @@ Create a docker microservice
 No error occured in this task
 
 ## Task verification
-![Confirm task3](task3.6screenshot.JPG)
+ ![Confirm task3](task3.6screenshot.JPG)
