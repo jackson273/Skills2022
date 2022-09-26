@@ -1,5 +1,3 @@
-# Task 2: Ansible skills test
-
 # Task 3: Docker
 
 ## Task name: 
